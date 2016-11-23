@@ -4,7 +4,7 @@ body {
     line-height: 1.5;
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2{
     font-family: "Oswald", "Helvetica Neue";
     text-align: center;
     color: #2884C3;
@@ -13,9 +13,7 @@ h1,h2,h3,h4,h5 {
 h1 {
     font-size: 72px;
 }
-h2,h3,h4,h5 {
-    font-size: 25px;
-}
+
 
 hr {
     border: 0;
